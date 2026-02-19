@@ -1,10 +1,8 @@
-# Sniper Calls Bot
+# PolyBot
 
 ## Overview
 
-**Sniper Calls Bot** is a state-of-the-art automated trading tool developed by **Solana experts**, specifically designed for meme coins. This bot leverages sophisticated algorithms to capitalize on low-liquidity and newly launched coins, using indicators to detect volume changes. **Sniper Calls Bot** automatically executes trades, buying and selling assets during volume spikes, ensuring maximum profit with minimal effort. Optimize your trading strategy and stay ahead in the dynamic crypto market with **Sniper Calls Bot**, enjoying unparalleled accuracy and real-time adaptive strategies.
-
-![Sniper Calls Bot](static/screenshot.png)
+**PolyBot** is a state-of-the-art automated trading tool developed by **Trading experts**, specifically designed for Polymarket. This bot uses sophisticated algorithms to profit from predictable and popular bets on various topics, using AI trained on thousands of trades and constant news monitoring. **PolyBot** automatically executes trades, ensuring maximum profit with minimal effort. Optimize your trading strategy and stay ahead in the dynamic market with **PolyBot**, enjoying unparalleled accuracy and real-time adaptive strategies.
 
 \* __Phantom Wallet may show you a warning. This happens because the bot is running on the local server, if you are concerned about the warning, install the bot on the domain and verify the domain, this step is optional to work with the bot__
 
@@ -19,16 +17,16 @@
 
 ## Installation
 
-**[👉 STEP BY STEP GUIDE IN OUR TELEGRAM CHANNEL!](https://t.me/snipercallshelp)**
+**[👉 STEP BY STEP GUIDE IN OUR TELEGRAM CHANNEL!]()**
 
-**[👤 OUR TECHNICAL SUPPORT IN TELEGRAM!](https://t.me/snipercallsshelp)**
+**[👤 OUR TECHNICAL SUPPORT IN TELEGRAM!]()**
 
-To get started with Sniper Calls Bot, follow these steps:
+To get started with PolyBot, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/NoahJames-sol/Sniper-Calls-Bot.git
-    cd sniper-calls-bot
+    git clone https://github.com/poly-botteam/PolyBot.git
+    cd PolyBot
     ```
 
 2. Install the required dependencies:
@@ -53,4 +51,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions, suggestions, or issues, please open an issue on GitHub or contact us at [snipercallshelp@gmail.com](mailto:snipercallshelp@gmail.com).
+For questions, suggestions, or issues, please open an issue on GitHub or contact us at [polybothelp@gmail.com](mailto:polybothelp@gmail.com).
