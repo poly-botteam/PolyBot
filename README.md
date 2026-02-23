@@ -17,10 +17,6 @@
 
 ## Installation
 
-**[👉 STEP BY STEP GUIDE IN OUR TELEGRAM CHANNEL!]()**
-
-**[👤 OUR TECHNICAL SUPPORT IN TELEGRAM!]()**
-
 To get started with PolyBot, follow these steps:
 
 1. Clone the repository:
